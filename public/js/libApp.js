@@ -1,0 +1,1 @@
+angular.module('libApp', ['controllers.library']);
